@@ -1,0 +1,16 @@
+# Zig build artifacts
+zig-out/
+.zig-cache/
+
+# Editor/OS artifacts
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# VSCode
+.vscode/
+
+# Optional logs or test output
+*.log
